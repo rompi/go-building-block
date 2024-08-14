@@ -3,7 +3,7 @@ package echopackage
 import (
 	"time"
 
-	httpserver "building-block/http"
+	httpserver "github.com/rompi/go-building-block/http"
 
 	"github.com/labstack/echo/v4"
 )

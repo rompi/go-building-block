@@ -1,4 +1,4 @@
-module building-block
+module github.com/rompi/go-building-block
 
 go 1.21.6
 

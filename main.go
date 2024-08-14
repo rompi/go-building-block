@@ -1,12 +1,13 @@
 package main
 
 import (
-	"building-block/logger"
 	"bytes"
 	"fmt"
 	"net/http"
 
-	echopackage "building-block/http/echo"
+	"github.com/rompi/go-building-block/logger"
+
+	echopackage "github.com/rompi/go-building-block/http/echo"
 
 	"github.com/labstack/echo/v4"
 )
